@@ -126,7 +126,7 @@ function getCroppedImg(image: HTMLImageElement, crop: Required<Crop>) {
 ```
 
 into svelte files for each component + 1 utils file
-```sveltehtml
+```svelte
 <!-- ModalManipulacao.svelte -->
 <script lang='ts'>
 import React from "react";
